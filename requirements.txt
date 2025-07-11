@@ -1,5 +1,5 @@
-streamlit
-pandas
 matplotlib
+pandas
 openpyxl
-
+streamlit
+matplotlib-fontconfig
